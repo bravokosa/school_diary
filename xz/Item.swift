@@ -2,7 +2,7 @@
 //  Item.swift
 //  xz
 //
-//  Created by Анна on 8.12.25.
+//  
 //
 
 import Foundation
