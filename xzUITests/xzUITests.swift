@@ -2,8 +2,7 @@
 //  xzUITests.swift
 //  xzUITests
 //
-//  Created by Анна on 8.12.25.
-//
+//  
 
 import XCTest
 
